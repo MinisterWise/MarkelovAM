@@ -142,5 +142,11 @@
       ```
       git rebase --skip
       ```
-26.
+26.27.29 Попытка выдать URL GitHub для отправки локального репозитория на GitHub:
+    ![image](https://github.com/MinisterWise/MarkelovAM/assets/163382199/cebfd60d-5d36-4905-abb5-3e22be342120)
+    ![image](https://github.com/MinisterWise/MarkelovAM/assets/163382199/26e794ad-768c-4cd6-abb6-583179f8d161)
+    ![image](https://github.com/MinisterWise/MarkelovAM/assets/163382199/45ed9d5d-2069-4c8c-9897-153a558ada4c)
+
+
+
 
